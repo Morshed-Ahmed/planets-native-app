@@ -18,7 +18,7 @@ const PlanetHeader = ({backBtn}) => {
                 <AntDesign name="left" size={24} color="white" />
             </Pressable>
         )}
-      <Text preset='h2'>THE PLANETS</Text>
+      <Text preset='h2'>THE PLANETSs</Text>
     </View>
   )
 }
